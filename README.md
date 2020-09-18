@@ -5,6 +5,10 @@ we are going to control the robotic through the Google cloud and try to apply th
 ## step 1
 we are going to create a gcp IOT communication link between the raspberry pi and GCP console
 
+
+
+![this how the connection would look like](images/connection.png)
+
 ## step 2
 we are going to connect a robotic arm to the raspberry pi.
 
